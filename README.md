@@ -157,8 +157,8 @@ No momento, estou estudando **Java** com ênfase em Orientação a Objetos, alé
      <br>
     -
         Colaborei com equipes multidisciplinares no desenvolvimento de soluções tecnológicas, focadas no **planejamento estratégico e empreendedorismo tecnológico**.<br>
-    -    
-        A instituição executora do programa é o CEPEDI, em parceria com o Governo do Estado da Bahia. A coordenação é realizada pela Softex, com apoio do **Governo Federal do Brasil**.
+    -
+        Instituição executora do programa é o CEPEDI, em parceria com o Governo do Estado da Bahia. A coordenação é realizada pela Softex, com apoio do **Governo Federal do Brasil**.
 
   
 
