@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Levy, tenho 21 anos e sou natural da Bahia.Atualmente estou cursando **Ciência da Computação** na UNIJORGE. Ao longo da minha trajetória, mergulhei em projetos de desenvolvimento mobile e web, focando em soluções que simplicam processos e garantem uma boa experiência ao usuário.
+Me chamo Levy, tenho 21 anos e sou natural da Bahia. Atualmente estou cursando **Ciência da Computação** na UNIJORGE. Ao longo da minha trajetória, mergulhei em projetos de desenvolvimento mobile e web, focando em soluções que simplicam processos e garantem uma boa experiência ao usuário.
 
 ---
 ### 🤖 Principais Linguagens e Tecnologias
