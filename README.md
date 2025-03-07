@@ -182,3 +182,6 @@ No momento, estou estudando **Java** com ênfase em Orientação a Objetos, alé
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyycarlo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+
+![Snake animation](https://github.com/levyycarlo/levyycarlo/blob/output/github-contribution-grid-snake.svg)
