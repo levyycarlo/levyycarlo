@@ -184,4 +184,5 @@ No momento, estou estudando **Java** com ênfase em Orientação a Objetos, alé
 
 <br>
 
-![Snake animation](https://github.com/levyycarlo/levyycarlo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://levyycarlo.github.io/levyycarlo/dist/github-contribution-grid-snake.svg)
+
