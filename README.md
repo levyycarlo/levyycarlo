@@ -113,7 +113,7 @@ Me chamo Levy, tenho 21 anos e sou natural da Bahia. Atualmente estou cursando *
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
 /> 
 <img 
-    align="left" 
+    align="left"
     alt="Hibernate" 
     title="Hibernate"
     width="30px" 
@@ -173,7 +173,7 @@ No momento, estou estudando **Java** com ênfase em Orientação a Objetos, alé
 
 <img 
     align="left" 
-    alt="GitHub Stats"
+    alt="GitHub Technology"
     height="200" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=levyycarlo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
