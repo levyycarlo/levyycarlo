@@ -5,6 +5,10 @@
 Me chamo Levy, tenho 21 anos e sou natural da Bahia. Atualmente estou cursando **Ciência da Computação** na UNIJORGE. Ao longo da minha trajetória, mergulhei em projetos de desenvolvimento mobile e web, focando em soluções que simplicam processos e garantem uma boa experiência ao usuário.
 
 ---
+<a href="mailto:levycrp3@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/levy-carlo-798497222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://github.com/levyycarlo?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=for-the-badge" target="_blank"></a>
+
 ### 🤖 Principais Linguagens e Tecnologias
 
 
