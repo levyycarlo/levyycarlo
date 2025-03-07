@@ -148,7 +148,7 @@ No momento, estou estudando **Java** com ênfase em Orientação a Objetos, alé
     Atuando no desenvolvimento e manutenção de soluções tecnológicas para o setor público, direcionadas a saúde pública no Centro de Tecnologia de Saúde (CTS) do municipio. 
 
 
-- **Programação de Residência em Software | CEPEDI**
+- **Residência em Software | CEPEDI**
     
     -
         Classificado e aprovado na trilha de desenvolvimento mobile, com foco em **React Native e Node.js**.<br>
@@ -156,10 +156,8 @@ No momento, estou estudando **Java** com ênfase em Orientação a Objetos, alé
         Projeto focado na preparação de residentes e profissionais em TIC para se tornarem **empreendedores de sucesso** no campo do desenvolvimento de soluções tecnológicas.
      <br>
     -
-  
         Colaborei com equipes multidisciplinares no desenvolvimento de soluções tecnológicas, focadas no **planejamento estratégico e empreendedorismo tecnológico**.<br>
     -
-  
         Instituição executora do programa é o CEPEDI, em parceria com o Governo do Estado da Bahia. A coordenação é realizada pela Softex, com apoio do **Governo Federal do Brasil**.
 
   
