@@ -105,45 +105,6 @@ Me chamo Levy, tenho 21 anos e sou natural da Bahia. Atualmente estou cursando *
           
 <br><br>
 
-### 📚 Tecnologias que estou estudando atualmente:
-
-
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"
-/> 
-<img 
-    align="left"
-    alt="Hibernate" 
-    title="Hibernate"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
-/> <br> <br>
-No momento, estou estudando **Java** com ênfase em Orientação a Objetos, além de me aprofundar nos frameworks **Spring e Hibernate**. Também estou aprimorando minhas habilidades com **PostgreSQL** para o gerenciamento de bancos de dados.
-<br><br>
 
 ---
 ### 🏆 **Experiência Profissional:**
